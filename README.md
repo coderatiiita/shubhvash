@@ -1,19 +1,27 @@
-### Hello World 👋
+### Hello World, I'm Shubham Vashishtha. <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am a fullstack (MERN) software engineer from India
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🔭 Working on personal multiple frontend and backend project using MERN stack
 - 🌱 Learning design patterns in depth
-<br>
+- Highly interested in distributed systems, ML systems
+- Hold dual degrees from IIIT-Allahabad
+<br />
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shubhvash)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/4051238/shubhvash)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/shubhvash)
+<a href="https://www.linkedin.com/in/shubhvash">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="center" width="40px" alt="linkedin"/>
+</a>
+<a href="https://www.spoj.com/users/coderatiiita">
+   <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codechef.png" align="center" width="40px" alt="codechef"/>
+</a>
+<a href="https://www.leetcode.com/jaldikar/">
+  <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/leetcode.png" align="center" width="40px" alt="SPOJ"/>
+</a>
+<a href="https://codeforces.com/profile/just_do_it_87">
+  <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codeforces.png" align="center" width="40px" alt="SPOJ"/>
+</a>
+<br />
 <br>
-<br>
-## Expertise
-<br>
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img align="left" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img align="left" alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<br>
-<img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img align="left" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/> <img align="left" alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+### Languages and Tools 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="38px" align="center" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="center" width="38px"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="center" width="36px"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="center" width="39px" alt="React" /> <img alt="Node js" align="center" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img src="https://img.icons8.com/color/452/mongodb.png" align="center" width="39px" alt="MongoDB"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" align="center" width="36px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" align="center" width="37px"/> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35px"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="center" alt="Git" width="37px"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" align="center" width="38px"/>
 <br>
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img align="left" alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img align="left" alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 <br>
