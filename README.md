@@ -3,7 +3,7 @@ I am a fullstack (MERN) software engineer from India
 - 🔭 Working on personal multiple frontend and backend project using MERN stack
 - 🌱 Learning design patterns in depth
 - Highly interested in distributed systems, ML systems
-- Hold dual degrees from IIIT-Allahabad
+- Hold dual degrees from IIIT-Allahabad  🚀
 <br />
 <a href="https://www.linkedin.com/in/shubhvash">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="center" width="40px" alt="<Linkedin"/>
@@ -31,13 +31,9 @@ I am a fullstack (MERN) software engineer from India
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35px"/>  
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="center" alt="Git" width="37px"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" align="center" width="38px"/>
-<br>
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img align="left" alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 <img align="left" alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-<br>
 <img align="left" alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/> 
 <img align="left" alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 <img align="left" alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-<br>
-<br>
