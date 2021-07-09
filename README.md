@@ -2,7 +2,7 @@
 I am a fullstack (MERN) software engineer from India
 - 🔭 Working on personal multiple frontend and backend project using MERN stack
 - 🌱 Learning design patterns in depth
-- Highly interested in distributed systems, ML systems
+- Highly interested in data intensive distributed systems, ML systems design
 - Hold dual degrees from IIIT-Allahabad  🚀
 <br />
 <a href="https://www.linkedin.com/in/shubhvash">
@@ -29,6 +29,6 @@ I am a fullstack (MERN) software engineer from India
 <img align="left" alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 <img align="left" alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
-<br/>
-
+<p>
 [![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhvash&show_icons=true)](https://github.com/shubhvash/github-readme-stats)
+</p>
