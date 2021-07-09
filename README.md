@@ -27,3 +27,6 @@ I am a fullstack (MERN) software engineer from India
 <img align="left" alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/> 
 <img align="left" alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 <img align="left" alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+
+[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhvash&show_icons=true)](https://github.com/shubhvash/github-readme-stats)
+
