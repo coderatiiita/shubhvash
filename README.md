@@ -32,7 +32,7 @@ I am a fullstack software engineer from India
 </p>
 </div>
 
-<div>
 ### My Github Stats
+<div>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubhvash&show_icons=true&count_private=true&theme=dark" alt="shubhvash" />
 </div>
