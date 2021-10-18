@@ -30,5 +30,5 @@ I am a fullstack (MERN) software engineer from India
 <img align="left" alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
-
-[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhvash&show_icons=true)](https://github.com/shubhvash/github-readme-stats)
+### My Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubhvash&show_icons=true&count_private=true&theme=dark" alt="shubhvash" />
