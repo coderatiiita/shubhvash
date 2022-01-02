@@ -13,7 +13,7 @@ I am a fullstack software engineer from India
 <a href="https://www.leetcode.com/jaldikar/">
   <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/leetcode.png" align="center" width="40px" alt="LeetCode"/>
 </a>
-<a href="https://codeforces.com/profile/just_do_it_87">
+<a href="https://codeforces.com/profile/jaldikar">
   <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codeforces.png" align="center" width="40px" alt="CodeForces"/>
 </a>
 <br />
