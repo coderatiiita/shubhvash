@@ -1,9 +1,12 @@
 ### Hello World, I'm Shubham Vashishtha. <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am a fullstack software engineer from India
+I am a backend software engineer from India
 - 🌱 Learning design patterns in depth
-- Highly interested in data intensive distributed systems, ML systems design
-- Hold dual degrees from IIIT-Allahabad  🚀
+- Highly interested in scaling data intensive distributed systems
+- Enthusiastic about ML systems design
+- I hold dual degrees from IIIT-Allahabad  🚀
+
 <br />
+
 <a href="https://www.linkedin.com/in/shubhvash">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="center" width="40px" alt="<Linkedin"/>
 </a>
@@ -16,6 +19,7 @@ I am a fullstack software engineer from India
 <a href="https://codeforces.com/profile/jaldikar">
   <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codeforces.png" align="center" width="40px" alt="CodeForces"/>
 </a>
+
 <br />
 <br />
 
@@ -28,3 +32,10 @@ I am a fullstack software engineer from India
 <div>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubhvash&show_icons=true&count_private=true&theme=dark" alt="shubhvash" />
 </div>
+
+<a href="https://github.com/shubhvash/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhvash&theme=radical&hide=glsl,python" />
+</a>
+<a href="https://github.com/shubhvash/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhvash&show_icons=true&theme=radical&line_height=27" alt="shubham's github stats" />
+</a>
