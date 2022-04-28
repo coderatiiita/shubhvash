@@ -23,11 +23,6 @@ I am a backend software engineer from India
 <br />
 <br />
 
-### Languages and Tools 
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="38px" align="center" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="center" width="38px"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="center" width="36px"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="center" width="39px" alt="React" /> <img alt="Node js" align="center" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img src="https://img.icons8.com/color/452/mongodb.png" align="center" width="39px" alt="MongoDB"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" align="center" width="36px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" align="center" width="37px"/> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35px"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="center" alt="Git" width="37px"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" align="center" width="38px"/>
-</p>
-
 <a href="https://github.com/shubhvash/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhvash&theme=radical&hide=glsl,python" />
 </a>
