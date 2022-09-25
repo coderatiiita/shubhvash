@@ -1,4 +1,4 @@
-### Hello World, I'm Shubham Vashishtha. <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World, I'm Shubham Vashishtha. 
 I am a software engineer from India
 - Learning design patterns in depth 
 - Highly interested in scaling data intensive distributed systems 🚀
