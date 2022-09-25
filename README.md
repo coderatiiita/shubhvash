@@ -1,9 +1,8 @@
 ### Hello World, I'm Shubham Vashishtha. <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am a backend software engineer from India
-- 🌱 Learning design patterns in depth
-- Highly interested in scaling data intensive distributed systems
-- Enthusiastic about ML systems design
-- I hold dual degrees from IIIT-Allahabad  🚀
+I am a software engineer from India
+- Learning design patterns in depth 
+- Highly interested in scaling data intensive distributed systems 🚀
+- I hold dual degrees from IIIT-Allahabad 🌱 
 
 <br />
 
