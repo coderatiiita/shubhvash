@@ -12,7 +12,7 @@ I am a software engineer from India
 <a href="https://www.spoj.com/users/coderatiiita">
    <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/spoj.png" align="center" width="40px" alt="SPOJ"/>
 </a>
-<a href="https://www.leetcode.com/jaldikar/">
+<a href="https://leetcode.com/kingPirate/">
   <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/leetcode.png" align="center" width="40px" alt="LeetCode"/>
 </a>
 <a href="https://codeforces.com/profile/jaldikar">
