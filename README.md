@@ -21,10 +21,3 @@ I am a software engineer from India
 
 <br />
 <br />
-
-<a href="https://github.com/shubhvash/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhvash&theme=radical&hide=glsl,python" />
-</a>
-<a href="https://github.com/shubhvash/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhvash&show_icons=true&theme=radical&line_height=27" alt="shubham's github stats" />
-</a>
