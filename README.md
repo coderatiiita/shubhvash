@@ -2,7 +2,7 @@
 I am a software engineer from India
 - Learning design patterns in depth 
 - Highly interested in scaling data intensive distributed systems 🚀
-- I hold dual degrees from IIIT-Allahabad 🌱 
+- I hold dual degrees from IIIT-Allahabad with specialization in AI (HCI) 🌱 
 
 <br />
 
