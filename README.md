@@ -19,6 +19,3 @@ I am a Software Engineer from India.
 <a href="https://www.spoj.com/users/coderatiiita">
    <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/spoj.png" align="center" width="40px" alt="SPOJ"/>
 </a>
-
-<br />
-<br />
