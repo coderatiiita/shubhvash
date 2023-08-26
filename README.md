@@ -1,3 +1,4 @@
+## 🌐 Socials:
 <a href="https://www.linkedin.com/in/shubhvash">
    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" align="center" width="50px" alt="<Linkedin"/>
 </a>
@@ -20,7 +21,7 @@
 - I also take keen interest in ML System Design. <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="25px" />
 - I hold dual degrees from IIIT-Allahabad with specialization in Artificial Intelligence (HCI) <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="25px" />
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhvash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br><br>
