@@ -20,5 +20,7 @@
 - I also take keen interest in ML System Design. <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="25px" />
 - I hold dual degrees from IIIT-Allahabad with specialization in Artificial Intelligence (HCI) <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="25px" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="500">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhvash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <br><br>
