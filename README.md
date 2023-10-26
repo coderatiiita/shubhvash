@@ -15,7 +15,7 @@
 <br/>
 
 ### <img align="center" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25px"> Hello World, I'm Shubham Vashishtha. 
-- Love the art of Software Engineering <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="28px">
+- Love the art of Software Engineering
 width="25px" />
 
 ### 📊 GitHub Stats:
