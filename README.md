@@ -16,7 +16,7 @@
 
 ### <img align="center" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25px"> Hello World, I'm Shubham Vashishtha and I love the art of Software Engineering.
 
-### IIIT-Allahabad Alumnus
+#### IIIT-Allahabad Alumnus
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhvash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
